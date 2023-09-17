@@ -2,5 +2,5 @@
 - I am an ETL developer.
 - My expertise are Talend Data Integration,MSSQL,Tableau.
 - I love playing Cricket.
-## Technical Background
+## TECHNICAL BACKGROUND
 - Basic knowledge on C,PL-SQL.
